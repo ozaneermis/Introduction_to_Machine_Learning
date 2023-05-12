@@ -1,8 +1,8 @@
-#Introduction to Machine Learning
+# Introduction to Machine Learning
 
-This repository contains the lecture materials and homework assignments for the Introduction to Machine Learning course at [insert your university name here].
+This repository contains the lecture materials and homework assignments for the Introduction to Machine Learning course at Karabuk University.
 
-#Course Description
+# Course Description
 
 In this course, we will cover the following topics:
 
